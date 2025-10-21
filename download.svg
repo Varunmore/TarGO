@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+  <rect rx="8" ry="8" width="400" height="120" fill="#0f172a"></rect>
+  <!-- file icon -->
+  <g transform="translate(20,12)">
+    <rect width="64" height="80" rx="6" fill="#1e293b"></rect>
+    <path d="M48 0v16a8 8 0 0 0 8 8h16" fill="#0ea5a4"></path>
+    <rect x="8" y="12" width="48" height="8" fill="#94a3b8" rx="2"></rect>
+    <rect x="8" y="26" width="48" height="6" fill="#64748b" rx="2"></rect>
+  </g>
+  <!-- circular arrow (backup) -->
+  <g transform="translate(120,40)" fill="none" stroke="#34d399" stroke-width="4" stroke-linecap="round">
+    <path d="M0 20 A20 20 0 1 1 39.9 12"></path>
+    <path d="M39 8 L48 12 L44 2"></path>
+  </g>
+  <!-- text -->
+  <g transform="translate(160,58)">
+    <text x="0" y="6" font-family="Verdana, Geneva, sans-serif" font-size="20" fill="#e2e8f0" font-weight="700">tarbackup</text>
+    <text x="0" y="30" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#94a3b8">create · extract · compress · restore</text>
+  </g>
+</svg>
