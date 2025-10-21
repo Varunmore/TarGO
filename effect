@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Print logo
+#
+logo() {
+echo -e "\e[1;32m
+████████╗ █████╗ ██████╗  █████╗  ██████╗  ██████╗ 
+╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔════╝ ██╔═══██╗
+   ██║   ███████║██████╔╝███████║██║  ███╗██║   ██║
+   ██║   ██╔══██║██╔══██╗██╔══██║██║   ██║██║   ██║
+   ██║   ██║  ██║██║  ██║██║  ██║╚██████╔╝╚██████╔╝
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ 
+              T A R  &  Z I P  B A C K U P
+            create · extract · compress · restore
+\e[0m"
+
+echo -e "\033[36m================================================\033[0m"
+
+echo -e "\033[1;32m  TAR Utility Script
+  Author: Varun More
+  GitHub: github.com/Varunmore
+  Description: Create or Extract TAR/ZIP backups easily.\033[0m"
+}
