@@ -1,4 +1,5 @@
-# ![TAR Backup Logo](download.svg) TAR & ZIP Backup Utility
+# ![TAR Backup Logo](download.svg) 
+## TAR & ZIP Backup Utility
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Bash](https://img.shields.io/badge/Language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
